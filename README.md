@@ -1,67 +1,52 @@
-# 👋 Saul | Junior Full Stack Developer
 
-🚀 Desarrollador junior de aplicaciones de escritorio y web  
-📍 Sucre, Bolivia 🇧🇴  
-💡 Apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones reales
 
----
+## 🎓 Formación Académica
 
-## ⚡ Sobre mí
-
-Soy Saul, estudiante de Ingeniería de Sistemas y Técnico Superior en Informática.  
-Me enfoco en el desarrollo de software moderno, con interés en backend, frontend y bases de datos.
-
-Busco crecer profesionalmente desarrollando proyectos reales, mejorando mis habilidades y trabajando en equipo.
-
----
-
-## 🎓 Formación
-
-🧠 Técnico Superior en Informática — Completo  
+🧠 Técnico Superior en Informática — Dominio completo  
 ⚙️ Ingeniería de Sistemas — En progreso  
 🌍 Inglés — Nivel intermedio  
 
-🎓 Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca
+Estudio en la *Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca*.
 
----
+## 🚀 Habilidades
 
-## 🚀 Tech Stack
+### 💻 Lenguajes de Programación  
+🟨 JavaScript    ▰▰▰▰▰▰▰▰▰▱ 50%  
+🟦 TypeScript    ▰▰▰▰▰▰▱▱▱▱ 35%  
+🔵 C#            ▰▰▰▰▰▰▱▱▱▱ 35%  
+🔷 C++           ▰▰▱▱▱▱▱▱▱▱ 12%  
+🗄️ MySQL         ▰▰▰▰▰▰▰▱▱▱ 40%  
 
-### 💻 Lenguajes
-🟨 JavaScript  
-🟦 TypeScript  
-🔵 C#  
-🔷 C++  
-🗄️ SQL / MySQL  
+### ⚙️ Frameworks y Tecnologías  
+🟢 NestJS        ▰▰▰▰▰▰▰▱▱▱ 45%  
+🟩 Node.js       ▰▰▰▰▰▱▱▱▱▱ 32%  
+🟩 Vue.js        ▰▰▰▰▱▱▱▱▱▱ 23%  
+⚪ .NET          ▰▰▰▰▰▰▱▱▱▱ 36%  
 
-### ⚙️ Frameworks
-🟢 NestJS  
-🟩 Node.js  
-🟩 Vue.js  
-⚪ .NET  
+### 🗄️ Bases de Datos  
+🗃️ MySQL Workbench ▰▰▰▰▰▰▱▱▱▱ 35%  
+🗄️ SQL Server      ▰▰▰▰▱▱▱▱▱▱ 24%  
 
-### 🗄️ Bases de datos
-🗃️ MySQL  
-🗄️ SQL Server  
-
-### 🧰 Tools
-🐙 Git · GitHub · GitHub Desktop  
-🐳 Docker  
-🎮 Unreal Engine  
+### 🧰 Herramientas y Extras  
+🐙 GitHub        ▰▰▰▰▰▰▰▰▰▰ 72%  
+🐳 Docker        ▰▰▰▰▱▱▱▱▱▱ 20%  
+🎮 Unreal Engine ▰▱▱▱▱▱▱▱▱▱ 10%  
 
 ---
 
 ## 📁 Proyectos
 
-📌 Aquí encontrarás mis proyectos personales y académicos  
-💻 Desarrollo continuo como junior developer  
+Cada proyecto que desarrollo cuenta con su propia documentación, donde explico su propósito, implementación y tecnologías utilizadas.
 
-👉 GitHub: https://github.com/tu-usuario
+La documentación incluye:
 
----
+📌 Objetivo del proyecto  
+⚙️ Stack tecnológico  
+🚀 Guía de instalación y uso  
+🧠 Lógica y arquitectura aplicada  
+📷 Evidencias visuales del funcionamiento  
 
-## 📊 Enfoque actual
+Estos proyectos representan mi crecimiento continuo como desarrollador junior.
 
-- 🔥 Mejorando en desarrollo backend con Node.js + NestJS  
-- 🧠 Aprendiendo buenas prácticas de arquitectura de software  
-- 🚀 Construyendo proyectos reales para portafolio  
+👉 Puedes ver mis proyectos aquí:  
+https://github.com/tu-usuario
