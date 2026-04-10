@@ -1,52 +1,67 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 👋 Sobre mí
 
-###
+Hola, soy Saul, de Sucre, Bolivia 🇧🇴.  
+Soy desarrollador junior enfocado en aplicaciones de escritorio y desarrollo web. Me apasiona la tecnología, la programación y la construcción de soluciones que generan impacto. Estoy en constante aprendizaje, desarrollando proyectos que marcan mi evolución en el mundo del software.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+## 🎓 Formación Académica
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+🧠 Técnico Superior en Informática — Dominio completo  
+⚙️ Ingeniería de Sistemas — En progreso  
+🌍 Inglés — Nivel intermedio  
 
-###
+Estudio en la *Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca*.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+Me interesa el desarrollo de software, la resolución de problemas y el trabajo en equipo. Busco seguir creciendo profesionalmente y adquirir experiencia en proyectos reales.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+Estoy abierto a oportunidades de trabajo tanto **remoto como presencial**.
 
-###
+Aquí podrás ver algunos de mis proyectos personales, donde continúo aprendiendo y mejorando como desarrollador.
+
+---
+
+## 🚀 Habilidades
+
+### 💻 Lenguajes de Programación  
+🟨 JavaScript    ▰▰▰▰▰▰▰▰▰▱ 50%  
+🟦 TypeScript    ▰▰▰▰▰▰▱▱▱▱ 35%  
+🔵 C#            ▰▰▰▰▰▰▱▱▱▱ 35%  
+🔷 C++           ▰▰▱▱▱▱▱▱▱▱ 12%  
+🗄️ MySQL         ▰▰▰▰▰▰▰▱▱▱ 40%  
+
+### ⚙️ Frameworks y Tecnologías  
+🟢 NestJS        ▰▰▰▰▰▰▰▱▱▱ 45%  
+🟩 Node.js       ▰▰▰▰▰▱▱▱▱▱ 32%  
+🟩 Vue.js        ▰▰▰▰▱▱▱▱▱▱ 23%  
+⚪ .NET          ▰▰▰▰▰▰▱▱▱▱ 36%  
+
+### 🗄️ Bases de Datos  
+🗃️ MySQL Workbench ▰▰▰▰▰▰▱▱▱▱ 35%  
+🗄️ SQL Server      ▰▰▰▰▱▱▱▱▱▱ 24%  
+
+### 🧰 Herramientas y Extras  
+🐙 GitHub        ▰▰▰▰▰▰▰▰▰▰ 72%  
+🐳 Docker        ▰▰▰▰▱▱▱▱▱▱ 20%  
+🎮 Unreal Engine ▰▱▱▱▱▱▱▱▱▱ 10%  
+
+---
+
+## 📁 Proyectos
+
+Cada proyecto que desarrollo cuenta con su propia documentación, donde explico su propósito, implementación y tecnologías utilizadas.
+
+La documentación incluye:
+
+📌 Objetivo del proyecto  
+⚙️ Stack tecnológico  
+🚀 Guía de instalación y uso  
+🧠 Lógica y arquitectura aplicada  
+📷 Evidencias visuales del funcionamiento  
+
+Estos proyectos representan mi crecimiento continuo como desarrollador junior.
+
+👉 Puedes ver mis proyectos aquí:  
+https://github.com/tu-usuario
