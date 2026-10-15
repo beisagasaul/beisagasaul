@@ -1,10 +1,10 @@
-<h2 align="left">👉 Hello 👋, welcome to my profile</h2>
+<h2 align="left">👉 Hola 👋, bienvenido a mi perfil</h2>
 
 ###
 
 <p align="left">
-💻 Junior Full Stack Developer enfocado en el desarrollo Backend.<br>
-⚙️ Actualmente desarrollando proyectos con NestJS, TypeScript, Vue.js y bases de datos.
+💻 Desarrollador Backend en formación con enfoque principal en <b>Java</b>.<br>
+⚙️ Siguiendo una ruta estructurada de aprendizaje Backend (Java, POO, Bases de Datos Relacionales & Git).
 </p>
 
 ###
@@ -14,63 +14,46 @@
 ###
 
 <div align="left">
-  🛠️ Backend Development & APIs RESTful<br>
-  🗄️ Database Design & Management (SQL / NoSQL)<br>
-  🖥️ Frontend Integration (Vue.js)<br>
-  🏗️ Clean Architecture & Software Design<br>
-  🔄 Version Control & Workflow
+  🛠️ Lógica de Programación & Programación Orientada a Objetos (POO)<br>
+  🗄️ Diseño de Bases de Datos Relacionales, DER y Consultas SQL<br>
+  🔄 Control de versiones y flujo de trabajo avanzado con Git y GitHub<br>
+  🏗️ En preparación para Arquitecturas Web, APIs RESTful y Spring Boot
 </div>
 
 ###
 
-<h3 align="left">Technologies & Frameworks</h3>
+<h3 align="left">Tecnologías & Herramientas</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-</div>
-
-###
-
-<h3 align="left">Tools & Databases</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
 
 ###
 
-<h3 align="left"> 🎓 Academic Background</h3>
+<h3 align="left"> 🎓 Formación Académica</h3>
 
 <h4 align="left"> Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca</h4>
 
 <p align="left">
-🧠 Técnico Superior en Informática — Completo<br>
-⚙️ Ingeniería de Sistemas — En progreso<br>
+🧠 Técnico Superior en Informática — Titulado<br>
+⚙️ Ingeniería de Sistemas — En curso<br>
 🌍 Inglés — Nivel intermedio
 </p>
 
 ##
 
-<h3 align="left"> 📁 Projects</h3>
+<h3 align="left"> 📁 Proyectos & Aprendizaje</h3>
 
 <p align="left">
-Mis proyectos están enfocados en la construcción de servicios backend , gestión de bases de datos e integración web.
+Mis proyectos y repositorios están enfocados en la construcción de la lógica backend, manejo de datos y control de versiones.
 </p>
 
 <p align="left">
@@ -78,13 +61,12 @@ Incluyen:
 </p>
 
 <p align="left">
-📌 Lógica de servidor y APIs RESTful con NestJS & TypeScript<br>
-🗄️ Diseños de esquemas y consultas a Bases de Datos<br>
-🖥️ Consumo e integración en interfaces con Vue.js<br>
-⚙️ Código limpio y buenas prácticas de desarrollo
+📌 Fundamentos sólidos y POO en Java<br>
+🗄️ Modelado de bases de datos relacionales y scripts SQL<br>
+⚙️ Control de versiones estructurado con Git/GitHub<br>
+🚀 Prácticas y ejercicios de lógica de programación
 </p>
 
 <p align="left">
-👉 Puedes explorar mis proyectos y repositorios aquí:<br>
-https://github.com/beisagasaul
+👉 Puedes explorar mis repositorios y avances de código aquí abajo.
 </p>
